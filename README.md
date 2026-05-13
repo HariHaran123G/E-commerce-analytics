@@ -87,6 +87,8 @@ Performed customer-level revenue and order analysis using SQL ranking and aggreg
 - Business insight annotations integrated directly into dashboard visuals.
 
 ---
+![Dashboard Page 1](Images/E-commerce-1.png)
+![Dashboard Page 2](Images/E-commerce-2.png)
 
 ## Future Improvements
 
